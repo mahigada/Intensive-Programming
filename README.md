@@ -1,10 +1,10 @@
 # Intensive-Programming
 
 >HW1: 
->>count.sh - builds a table of counters for the commands under /bin in alphabetical order.
->>reverse.sh - reverses the contents of a directory passed as a parameter.
->>filter.sh - prints those files/directories that have the size greater than the average file size of the directory. 
->>insert-sort.sh - sorts a list of command line parameters in ascending order.
+>>count.sh - builds a table of counters for the commands under /bin in alphabetical order.  
+>>reverse.sh - reverses the contents of a directory passed as a parameter.  
+>>filter.sh - prints those files/directories that have the size greater than the average file size of the directory.  
+>>insert-sort.sh - sorts a list of command line parameters in ascending order.  
 ---
 >HW2:
 >>create.sh - creates a directory tree with depth d and breadth b in a programmable depth/breadth-first fashion, where depth-first or breadth-first can be crontrolled by a command line parameter. Depth refers to the level of the directory tree while breadth refers to the number of directories a directory may have. Use d and b between 3 and 5 inclusive for testing purposes. 
