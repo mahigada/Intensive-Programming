@@ -26,6 +26,3 @@
 ---
 >HW8:
 >>Write a Bash script to download the stock web page every minute for an hour. Make sure you do this between 9:30 am and 4 pm when the values change. Your bash script will call a python program.
----
->HW9:
->>Write two C programs for computing dot product that will run on any number of cores or comptuers using MPI. The two versions are: (a) point to point comunication using MPI_Send() and MPI_Recv() and (b) collective communication using MPI_Scatter() and MPI_Gather() as we will discuss in class shortly. Use the following MPI constructs.
