@@ -1,4 +1,4 @@
-# CS280: Intensive-Programming
+# CS288: Intensive-Programming
 
 >HW1: 
 >>count.sh - builds a table of counters for the commands under /bin in alphabetical order.  
